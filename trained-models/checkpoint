@@ -1,0 +1,2 @@
+model_checkpoint_path: "tf_stand_True.grayed_True.agument_False.epochs_50.batch_128.lrate_0.001.tag_final_result"
+all_model_checkpoint_paths: "tf_stand_True.grayed_True.agument_False.epochs_50.batch_128.lrate_0.001.tag_final_result"
